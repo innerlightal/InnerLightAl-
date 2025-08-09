@@ -1,0 +1,21 @@
+# Node modules (کتابخونه‌ها)
+node_modules/
+
+# پوشه build و dist
+build/
+dist/
+
+# فایل‌های موقتی سیستم
+.DS_Store
+
+# پوشه‌های لاگ
+logs/
+*.log
+
+# فایل‌های محیطی (اطلاعات حساس)
+.env
+.env.local
+
+# کش و موقتی‌ها
+.cache/
+tmp/
