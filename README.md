@@ -1,43 +1,53 @@
-# InnerLightAl - صدای درون
-
-**English below**
+# InnerLightAl - وجدان 
 
 ---
 
-## درباره پروژه
+## درباره پروژه | About the Project
 
-صدای درون، یک چت‌بات معنوی است که با الهام از آموزه‌های قرآن و اسلام، کاربران را به سوی رشد درونی، آرامش و سعادت راهنمایی می‌کند. هدف ما ایجاد ابزاری برای یادآوری و تقویت وجدان، خودشناسی و دعوت به مسیر درست زندگی است.
+وجدان یک چت‌بات هوشمند معنوی است که با الهام از آموزه‌های قرآن و اسلام طراحی شده تا کاربران را به سوی رشد درونی، وجدان بیدار و سعادت هدایت کند.  
+این پروژه قصد دارد با بهره‌گیری از هوش مصنوعی و مدل‌های زبانی پیشرفته، گفتگوهای عمیق و معناداری ارائه دهد که به یادآوری ارزش‌های انسانی و معنوی کمک می‌کند.
 
----
-
-## About the project
-
-InnerLightAl is a spiritual chatbot inspired by the teachings of the Quran and Islam. It guides users toward inner growth, peace, and happiness. Our goal is to create a tool that reminds and strengthens conscience, self-awareness, and invites users to the right path.
+InnerLightAl is a spiritual intelligent chatbot inspired by the teachings of the Quran and Islam, designed to guide users towards inner growth, awakened conscience, and happiness.  
+This project aims to leverage artificial intelligence and advanced language models to provide deep and meaningful conversations that help remind human and spiritual values.
 
 ---
 
-## مشارکت
+## اهداف پروژه | Project Goals
 
-اگر به این هدف ایمان دارید و مایل به همکاری هستید، خوشحال می‌شویم به تیم ما بپیوندید.  
-فرقی نمی‌کند در چه زمینه‌ای تخصص دارید، هر کمکی می‌تواند ارزشمند باشد.
+- توسعه یک چت‌بات هوشمند با تمرکز بر مفاهیم معنوی و اسلامی  
+- یادآوری مداوم وجدان و مسیر درست زندگی به کاربران  
+- فراهم کردن بستری برای گفتگوی سازنده و الهام‌بخش  
+- استفاده از فناوری هوش مصنوعی برای تحلیل و پاسخگویی هوشمندانه
 
----
-
-## Contribution
-
-If you believe in this mission and want to collaborate, we would be glad to have you join our team.  
-No matter your expertise, every help is valuable.
-
----
-
-## شروع به کار
-
-برای شروع، لطفا پروژه را کلون کرده و فایل‌های اولیه را بررسی کنید.  
-ما در حال ساخت این پروژه هستیم و همه ایده‌ها و مشارکت‌ها استقبال می‌شود.
+- Developing an intelligent chatbot focused on spiritual and Islamic concepts  
+- Continuously reminding users of conscience and the right path in life  
+- Providing a platform for constructive and inspiring conversations  
+- Utilizing AI technology for intelligent analysis and responses
 
 ---
 
-## Getting started
+## مشارکت و همکاری | Collaboration & Contribution
 
-To start, please clone the repository and review the initial files.  
-We are building this project and welcome all ideas and contributions.
+ما به دنبال توسعه‌دهندگان و متخصصان هوش مصنوعی هستیم که در حوزه‌های زیر توانایی دارند:  
+- طراحی و بهبود مدل‌های زبانی (NLP)  
+- برنامه‌نویسی چت‌بات و توسعه بک‌اند و فرانت‌اند  
+- تحلیل داده‌های معنوی و متنی  
+- همکاری در خلق تجربه کاربری عمیق و انسانی
+
+We are looking for developers and AI specialists skilled in:  
+- Designing and improving language models (NLP)  
+- Chatbot programming and backend/frontend development  
+- Analyzing spiritual and textual data  
+- Collaborating to create a deep and human user experience
+
+اگر به این هدف ایمان دارید و دوست دارید در تیمی معنوی و نوآور فعالیت کنید، خوشحال می‌شویم شما را در کنار خود داشته باشیم.
+
+If you believe in this mission and want to be part of a spiritual and innovative team, we would be glad to have you with us.
+
+---
+
+## شروع به کار | Getting Started
+
+برای شروع، پروژه را کلون کنید و با فایل‌های موجود آشنا شوید. ایده‌ها و پیشنهادات شما همیشه ارزشمند است.
+
+To get started, please clone the repository and familiarize yourself with the existing files. Your ideas and suggestions are always valuable.
